@@ -7,10 +7,10 @@ macro-challenges/core, but you can delete them and write your own.
 Hours of metaprogramming metafun guaranteed.
 
 Currently included:
--`and`
--`or`
--`when`
--`when-not`
--`when-let`
--`while`
--`->`
+- `and`
+- `or`
+- `when`
+- `when-not`
+- `when-let`
+- `while`
+- `->`
